@@ -7,7 +7,7 @@ Mise en oeuvre des mécanismes de connexion sur un site Web
 - Restriction d'accès au site(si non connecté) grâce à l'utilisation d'un filtre
 - Enregistrement de la date de dernière connexion dans un Cookie
 
-Utilisation d'une base SQL dont le schéma est le suivant :
+Utilisation d'une base SQL dont le schéma est le suivant:
 CREATE DATABASE bdd_sdzee DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 
 CREATE USER 'java'@'localhost' IDENTIFIED BY 'SdZ_eE';
