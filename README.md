@@ -1,9 +1,9 @@
 # pro
 Mise en oeuvre des mécanismes de connexion sur un site Web
-- Connexion/Deconnexion avec création/suppression de la session utilisateur
-- Validation des données envoyées par formulaire par des objets métier 
+- Connexion/déconnexion avec création/suppression de la session utilisateur
+- Validation des données envoyées par formulaire par le biais d'objets métier 
 - Validation de la cohérence des données avec la BDD (inscription/connexion)
-- Gestion des accès en base par des Data Object Access
+- Gestion des accès en base par des Data Access Objects
 - Restriction d'accès au site(si non connecté) grâce à l'utilisation d'un filtre
 - Enregistrement de la date de dernière connexion dans un Cookie
 
